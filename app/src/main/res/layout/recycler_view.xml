@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+    <android.support.v7.widget.CardView
+        android:layout_width="@dimen/card_imageview_width"
+        android:layout_height="@dimen/card_imageview_height"
+        android:scrollbars="vertical"
+        android:id="@+id/options_view"
+        app:cardElevation="5dp"
+        app:cardUseCompatPadding="true"
+        app:cardCornerRadius="20dp">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/card_options_imageview"
+            android:maxHeight="100dp"
+            android:adjustViewBounds="true"
+
+            />
+        <RadioButton
+            android:id="@+id/radiobtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|left"
+            android:checked="false"
+
+
+            />
+        <TextView
+            android:id="@+id/card_options_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|left"
+
+            android:layout_marginLeft="35dp"
+            />
+    </android.support.v7.widget.CardView>
+
+
+
+</RelativeLayout>

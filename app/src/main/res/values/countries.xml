@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries">
+        <item>Alameda</item>
+        <item>Alpine</item>
+        <item>Amador</item>
+        <item>Butte</item>
+        <item>Calaveras</item>
+        <item>Colusa</item>
+        <item>Contra Costa</item>
+        <item>Del Norte</item>
+        <item>El Dorado</item>
+        <item>Fresno</item>
+        <item>Glenn</item>
+        <item>Humboldt</item>
+        <item>Imperial</item>
+        <item>Inyo</item>
+        <item>Kern</item>
+        <item>Kings</item>
+        <item>Lake</item>
+        <item>Lassen</item>
+        <item>Los Angeles</item>
+        <item>Madera</item>
+        <item>Marin</item>
+        <item>Mariposa</item>
+        <item>Mendocino</item>
+        <item>Merced</item>
+        <item>Modoc</item>
+        <item>Mono</item>
+        <item>Monterey</item>
+        <item>Napa</item>
+        <item>Nevada</item>
+        <item>Orange</item>
+        <item>Placer</item>
+        <item>Plumas</item>
+        <item>Riverside</item>
+        <item>Sacramento</item>
+        <item>San Benito</item>
+        <item>San Bernardino</item>
+        <item>San Diego</item>
+        <item>San Francisco</item>
+        <item>San Joaquin</item>
+        <item>San Luis Obispo</item>
+        <item>San Mateo</item>
+        <item>Santa Barbara</item>
+        <item>Santa Clara</item>
+        <item>Santa Cruz</item>
+        <item>Shasta</item>
+        <item>Sierra</item>
+        <item>Siskiyou</item>
+        <item>Solano</item>
+        <item>Sonoma</item>
+        <item>Stanislaus</item>
+        <item>Sutter</item>
+        <item>Tehama</item>
+        <item>Trinity</item>
+        <item>Tulare</item>
+        <item>Tuolumne</item>
+        <item>Ventura</item>
+        <item>Yolo</item>
+        <item>Yuba</item>
+    </string-array>
+</resources>

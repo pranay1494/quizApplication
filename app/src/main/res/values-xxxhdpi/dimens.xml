@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">24dp</dimen>
+    <dimen name="activity_vertical_margin">24dp</dimen>
+    <dimen name="card_view_height">375dp</dimen>
+    <dimen name="card_margin_top">15dp</dimen>
+    <dimen name="pager_bottom">15dp</dimen>
+    <dimen name="card_imageview_height">225dp</dimen>
+    <dimen name="card_imageview_width">300dp</dimen>
+
+</resources>

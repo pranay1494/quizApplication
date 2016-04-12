@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:appcompat="http://schemas.android.com/apk/res-auto"
+    >
+
+    <item
+        android:id="@+id/countdown"
+        appcompat:actionViewClass="android.widget.TextView"
+        appcompat:showAsAction="always"
+        android:title="Time: "
+      >
+    </item>
+
+    <item android:id="@+id/actionbar_prev"
+        android:icon="@drawable/ic_action_circled_left_48"
+        android:title="Previous"
+        appcompat:showAsAction="always"
+        />
+    <item android:id="@+id/actionbar_next"
+        android:icon="@drawable/ic_action_circled_right_48"
+        android:title="Next"
+        appcompat:showAsAction="always"
+        />
+
+</menu>
